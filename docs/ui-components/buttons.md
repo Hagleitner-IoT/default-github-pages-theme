@@ -60,11 +60,11 @@ Wrap the button in a container that uses the [font-size utility classes]({{ site
 
 <div class="code-example" markdown="1">
 <span class="fs-6">
-[Big ass button](http://example.com/){: .btn }
+[Big button](http://example.com/){: .btn }
 </span>
 
 <span class="fs-3">
-[Tiny ass button](http://example.com/){: .btn }
+[Tiny button](http://example.com/){: .btn }
 </span>
 </div>
 ```markdown
